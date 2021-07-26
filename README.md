@@ -1,6 +1,8 @@
 # mi_card_flutter
 
-A new Flutter application.
+A Very Simple Flutter application.
+I hope I will build this into a full portfolio with time.
+In the meantime, fork, create a pull request, and show me what you've done too!
 
 ## Getting Started
 
